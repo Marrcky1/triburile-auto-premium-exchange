@@ -29,5 +29,5 @@ Marrcky
 
 ## Versiune:
 
-v14 Stable
+v16 Stable
 <img width="365" height="603" alt="image" src="https://github.com/user-attachments/assets/f180850c-46e0-42ae-a33d-adb3be8401d8" />
