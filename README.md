@@ -39,6 +39,10 @@ Pe baza acestor date, stabilește ordinea de cumpărare și prioritizează resur
 
 Exemplu:
 
+<img width="191" height="87" alt="image" src="https://github.com/user-attachments/assets/807407d3-45f7-4574-b907-79c8e682d762" />
+<img width="357" height="617" alt="image" src="https://github.com/user-attachments/assets/55f4db1e-f6f4-48ed-ac30-c1184c84a532" />
+
+
 ```txt
 Lemn:   40% magazie
 Argilă: 75% magazie
